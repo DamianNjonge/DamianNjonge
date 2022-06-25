@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hire there, i am Fred Njonge:
 🔭 I’m currently working on my final year project.<br>👯 I’m looking to collaborate on multiple javascript projects,<br>🤝 I’m looking for help with my map line chat,<br>🌱 I’m currently learning  react and react native<br>💬 Ask me about react and react native<br>⚡ Fun fact I think am funny
 
 
