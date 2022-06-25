@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on Javascript projects.
 - 📫 How to reach me at fredmuturi@gmail.com
 
- https://github-readme-stats.vercel.app/api?username=DamianNjonge &theme=radical
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DamianNjonge &theme=radical)
